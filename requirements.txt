@@ -86,9 +86,6 @@ pyee==8.1.0
 pylibsrtp==0.6.8
 pyreadline==2.1
 PyWavelets==1.1.1
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==20.0.0
 QtPy==1.9.0
