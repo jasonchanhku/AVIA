@@ -3,18 +3,11 @@ aioice==0.7.5
 aiortc==1.2.0
 alabaster==0.7.12
 altair==4.1.0
-anyio @ file:///C:/ci/anyio_1617783502106/work/dist
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037829118/work
 astor==0.8.1
-astroid @ file:///C:/ci/astroid_1613501147567/work
 astunparse==1.6.3
 async-generator==1.10
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 av==8.0.3
-Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 base58==2.1.0
-bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 blinker==1.4
 blis==0.7.4
 brotlipy==0.7.0
@@ -22,23 +15,14 @@ cached-property==1.5.2
 cachetools==4.2.2
 catalogue==2.0.4
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1613247269562/work
-chardet @ file:///C:/ci/chardet_1607706912142/work
 click==7.1.2
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 coloredlogs==15.0.1
 contextvars==2.4
 crc32c==2.2
-cryptography @ file:///C:/ci/cryptography_1616769514516/work
 cycler==0.10.0
 cymem==2.0.5
-dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
 decorator==4.4.2
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-dlib @ file:///C:/Users/jc17642/Downloads/dlib-19.8.1-cp36-cp36m-win_amd64.whl
 dnspython==2.1.0
-docutils @ file:///C:/ci/docutils_1617624823126/work
 dython==0.6.6
 en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0/en_core_web_md-3.0.0-py3-none-any.whl
@@ -58,43 +42,19 @@ google-pasta==0.2.0
 grpcio==1.34.1
 h5py==3.1.0
 humanfriendly==9.2
-idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 imageio==2.9.0
-imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
-immutables @ file:///C:/ci/immutables_1615841288064/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1617877476772/work
 imutils==0.5.4
-ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593446240034/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
-isort @ file:///tmp/build/80754af9/isort_1616355431277/work
 iteration-utilities==0.11.0
 itsdangerous==2.0.1
 jedi==0.18.0
 Jinja2==3.0.1
 joblib==1.0.1
 json5==0.9.5
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
-jupyter-contrib-core==0.3.3
-jupyter-contrib-nbextensions==0.5.1
-jupyter-core @ file:///C:/ci/jupyter_core_1612213536848/work
-jupyter-highlight-selected-word==0.2.0
-jupyter-latex-envs==1.4.6
-jupyter-nbextensions-configurator==0.4.1
-jupyter-packaging @ file:///tmp/build/80754af9/jupyter-packaging_1613502826984/work
-jupyter-server @ file:///C:/ci/jupyter_server_1616084123252/work
-jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1617303052588/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1617134334258/work
-jupyterlab-widgets==1.0.0
 Keras==2.4.3
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
-keyring @ file:///C:/ci/keyring_1614617025616/work
 kiwisolver==1.3.1
-lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529300868/work
 lxml==4.6.3
 Markdown==3.3.4
 MarkupSafe==2.0.1
@@ -103,92 +63,50 @@ mccabe==0.6.1
 mistune==0.8.4
 mtcnn==0.1.0
 murmurhash==1.0.5
-nbclassic @ file:///tmp/build/80754af9/nbclassic_1616085367084/work
-nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
-nbconvert @ file:///C:/ci/nbconvert_1601896775581/work
-nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 netifaces==0.11.0
 networkx==2.5.1
 nltk==3.6.2
-notebook @ file:///C:/ci/notebook_1616443540258/work
 numpy==1.19.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 oauthlib==3.1.1
 opencv-contrib-python==4.5.2.54
 opencv-python==4.5.1.48
 opt-einsum==3.3.0
-packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
 pandas==1.1.5
-pandocfilters @ file:///C:/ci/pandocfilters_1605120535071/work
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 pathy==0.5.2
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.2.0
 preshed==3.0.5
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1617383679942/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 protobuf==3.17.1
-psutil @ file:///C:/ci/psutil_1612298125479/work
 pyarrow==4.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydantic==1.7.4
 pydeck==0.6.2
 pydub==0.25.1
 pyee==8.1.0
-pyflakes @ file:///tmp/build/80754af9/pyflakes_1617200973297/work
-Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
 pylibsrtp==0.6.8
-pylint @ file:///C:/ci/pylint_1617135975205/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyreadline==2.1
-pyrsistent @ file:///C:/ci/pyrsistent_1600141799440/work
-PySocks @ file:///C:/ci/pysocks_1605305839978/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
 PyWavelets==1.1.1
 pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==20.0.0
-QtAwesome @ file:///tmp/build/80754af9/qtawesome_1615991616277/work
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1616775094278/work
 QtPy==1.9.0
 regex==2021.4.4
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 requests-oauthlib==1.3.0
-rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 rsa==4.7.2
 scikit-image==0.17.2
 scikit-learn==0.24.2
 scikit-plot==0.3.7
 scipy==1.5.4
 seaborn==0.11.1
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
-six @ file:///C:/ci/six_1605187303045/work
 sk-video==1.1.10
 smart-open==3.0.0
 smmap==4.0.0
-sniffio @ file:///C:/ci/sniffio_1614030717740/work
-snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1611258885636/work
 spacy==3.0.6
 spacy-legacy==3.0.6
 spacy-streamlit==1.0.0
 spacytextblob==3.0.1
-Sphinx @ file:///tmp/build/80754af9/sphinx_1616268783226/work
-sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
-sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
-sphinxcontrib-htmlhelp @ file:///home/ktietz/src/ci/sphinxcontrib-htmlhelp_1611920974801/work
-sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
-sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
-sphinxcontrib-serializinghtml @ file:///home/ktietz/src/ci/sphinxcontrib-serializinghtml_1611920755253/work
-spyder==3.3.6
-spyder-kernels==0.5.2
 srsly==2.4.1
 streamlit==0.82.0
 streamlit-metrics==0.1.0
@@ -200,33 +118,24 @@ tensorflow==2.5.0
 tensorflow-estimator==2.5.0
 termcolor==1.1.0
 terminado==0.9.4
-testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
 textblob==0.15.3
 tflearn==0.5.0
 thinc==8.0.6
 threadpoolctl==2.1.0
 tifffile==2020.9.3
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 toolz==0.11.1
-tornado @ file:///C:/ci/tornado_1606942379977/work
 tqdm==4.60.0
 traitlets==4.3.3
-typed-ast @ file:///C:/ci/typed-ast_1610466539988/work
 typer==0.3.2
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 tzlocal==2.1
 ujson==4.0.2
-urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
 validators==0.18.2
 vega-datasets==0.9.0
 wasabi==0.8.2
 watchdog==2.1.2
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==2.0.1
 widgetsnbextension==3.5.1
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306197271/work
 wincertstore==0.2
 wordcloud==1.8.1
 wrapt==1.12.1
-zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
