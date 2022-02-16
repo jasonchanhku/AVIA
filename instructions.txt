@@ -1,0 +1,13 @@
+We used Python 3.6 for this application.Internet connection is required to use this application
+
+Step 1
+
+in command prompt run the following: 
+pip install requirements.txt
+
+Step 2
+
+run the following command:
+streamlit run app.py
+
+Hope you enjoy using AVIA!
